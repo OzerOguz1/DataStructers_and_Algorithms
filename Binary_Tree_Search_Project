@@ -1,0 +1,9 @@
+  [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.           
+             
+  >> Binary Search Tree algortimasında Root olarak seçilen sayıdan büyük olan sayılar root'un sağına, küçük olan sayılar ise rootun soluna yazılır. Bu durum sırasıyla bütün nodelar için geçerlidir.           
+             7
+					5			8
+				1		6			9
+			0		3
+				2		4
+   
